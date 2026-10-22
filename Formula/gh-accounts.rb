@@ -1,8 +1,9 @@
 class GhAccounts < Formula
   desc "Per-client GitHub accounts for gh, git, SSH and GPG, auto-selected by folder"
   homepage "https://github.com/aiherrera/gh-accounts"
-  url "https://github.com/aiherrera/gh-accounts/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0ec61ad3752f78a5974976b80bd22ec1358b883e70c5f33f6f4950fefb5eaadc"
+  url "https://github.com/aiherrera/gh-accounts/archive/e733ad6141cbfd1c4c497f784a8fd3ed9f66c2f4.tar.gz"
+  version "1.0.1"
+  sha256 "39994cbac980659c6e31e2663728566c27902073fba22b94507f58d421f5dc21"
   license "MIT"
 
   depends_on "gh"
